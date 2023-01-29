@@ -10,5 +10,5 @@ This global utility class can be used to retrieve data that already maintained w
 
 Data must be already maintained in TVARVC via T-code STVARVC
 
-Data or can be in the form of parameter or Select Options
+Data can be in the form of parameter or Select Options
 
